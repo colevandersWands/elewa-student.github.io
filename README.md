@@ -2,19 +2,6 @@
 
 I'm a motivated student of life looking to expand into coding.  
 
-### Index:
-* [Programmer's Oath](#programmers-oath)
-* [Goals](#goals)
-* [Precourse](#precourse)
-
-___
-
-## Programmer's Oath
-
-[I solemnly swear I am up to all good.](https://github.com/elewa-academy/programmers-oath-template)
-
-[TOP](#my-portfolio)
-
 ___
 
 ## Goals
@@ -26,14 +13,13 @@ I want to be a programmer for good.  My professional aspirations include buildin
 
 ___
 
-## Precourse
+## Precourse Projects
 
-My biggest take-away from the precourse was how hard this is.  I used to think it was enough just to get my code to work, now I see there is much more to it.
+My biggest take-away from the precourse was how tricky it is to write good code.  I used to think it was enough just to get my code to work, now I see there is much more to it.
 
 Projects:
-* [JavaScript reference repository](https://github.com/elewa-academy/javascript-template)
+
 * Pretty Things gallery: [Repo](https://github.com/elewa-student/pretty-things/), [Live](https://elewa-student.github.io/pretty-things/)
-* Final Project: [Repo](https://github.com/elewa-student/precourse-final-project), [Live](https://elewa-student.github.io/precourse-final-project)
 
 
 
